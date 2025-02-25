@@ -1,0 +1,14 @@
+C:\Users\oscar\OneDrive\Escritorio\Escritorio\Examen 2\Examen2\obj\Debug\net8.0\Examen2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\oscar\OneDrive\Escritorio\Escritorio\Examen 2\Examen2\obj\Debug\net8.0\Examen2.AssemblyInfoInputs.cache
+C:\Users\oscar\OneDrive\Escritorio\Escritorio\Examen 2\Examen2\obj\Debug\net8.0\Examen2.AssemblyInfo.cs
+C:\Users\oscar\OneDrive\Escritorio\Escritorio\Examen 2\Examen2\obj\Debug\net8.0\Examen2.csproj.CoreCompileInputs.cache
+C:\Users\oscar\OneDrive\Escritorio\Escritorio\Examen 2\Examen2\bin\Debug\net8.0\Examen2.exe
+C:\Users\oscar\OneDrive\Escritorio\Escritorio\Examen 2\Examen2\bin\Debug\net8.0\Examen2.deps.json
+C:\Users\oscar\OneDrive\Escritorio\Escritorio\Examen 2\Examen2\bin\Debug\net8.0\Examen2.runtimeconfig.json
+C:\Users\oscar\OneDrive\Escritorio\Escritorio\Examen 2\Examen2\bin\Debug\net8.0\Examen2.dll
+C:\Users\oscar\OneDrive\Escritorio\Escritorio\Examen 2\Examen2\bin\Debug\net8.0\Examen2.pdb
+C:\Users\oscar\OneDrive\Escritorio\Escritorio\Examen 2\Examen2\obj\Debug\net8.0\Examen2.dll
+C:\Users\oscar\OneDrive\Escritorio\Escritorio\Examen 2\Examen2\obj\Debug\net8.0\refint\Examen2.dll
+C:\Users\oscar\OneDrive\Escritorio\Escritorio\Examen 2\Examen2\obj\Debug\net8.0\Examen2.pdb
+C:\Users\oscar\OneDrive\Escritorio\Escritorio\Examen 2\Examen2\obj\Debug\net8.0\Examen2.genruntimeconfig.cache
+C:\Users\oscar\OneDrive\Escritorio\Escritorio\Examen 2\Examen2\obj\Debug\net8.0\ref\Examen2.dll
